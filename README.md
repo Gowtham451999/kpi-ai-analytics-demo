@@ -21,3 +21,12 @@ data/
 events.csv
 requirements.txt
 .gitignore
+
+**outputs**
+outputs/summary.txt
+
+outputs/ab_d1_retention.csv (A/B table)
+
+outputs/retention_curve.csv (D0–D7 retention)
+
+outputs/retention_curve.png (chart)
