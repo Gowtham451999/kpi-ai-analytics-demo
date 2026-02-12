@@ -1,0 +1,13 @@
+SUMMARY
+Dataset: data/events.csv
+Users: 800
+D1 retention: 59.62%
+D7 retention: 22.75%
+Lift (B vs A) on D1: 1.51%
+p-value (D1): 0.7183
+Decision: Variant B shows lift, but not statistically significant
+
+Artifacts:
+- outputs\ab_d1_retention.csv
+- outputs\retention_curve.csv
+- outputs\retention_curve.png
